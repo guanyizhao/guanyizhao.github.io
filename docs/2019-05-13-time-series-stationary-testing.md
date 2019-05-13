@@ -1,14 +1,15 @@
 ---
-layout: default
+layout: page
 #标题配置
 title:  时间序列的平稳性检验
-#时间配置
-date:   2019-05-13 16:49:00 +0800
-#大类配置
-categories: time-series
-#小类配置
-tag: test
+# #时间配置
+# date:   2019-05-13 16:49:00 +0800
+# #大类配置
+# categories: time-series
+# #小类配置
+# tag: test
 ---
+
 
 * content
 {:toc}
@@ -44,4 +45,6 @@ $$ E(y_t) = y_0 + t E(u_i) = y_0 $$
 
 方差为：
 
-% $$ D(y_t) = 
+$$ D(y_t) = $$
+
+[back](../)
