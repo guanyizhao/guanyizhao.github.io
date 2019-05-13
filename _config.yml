@@ -1,18 +1,26 @@
-# Setup
-title:        Project or Site name
-tagline:      A responsive theme for your project on GitHub Pages
-baseurl:      ""
-paginate:     1
-locale:       "en"
+# # Setup
+# title:        赵冠一的博客
+# tagline:      A responsive theme for your project on GitHub Pages
+# baseurl:      ""
+# paginate:     1
+# locale:       "en"
 
-# About/contact
-author:
-  name:       Author name
-  url:        http://yourhomepage.com 
+# # About/contact
+# author:
+#   name:       赵冠一
+#   url:        http://guanyizhao.github.io 
 
-# Gems
-gems:
-  - jekyll-paginate
+# # Gems
+# gems:
+#   - jekyll-paginate
 
-#Others
-markdown: kramdown
+# #Others
+# markdown: kramdown
+
+title: 赵冠一的博客
+description: 允许自己偶尔做一个自由而无用的灵魂。
+# show_downloads: true
+# google_analytics:
+theme: jekyll-theme-midnight
+
+timezone: CN

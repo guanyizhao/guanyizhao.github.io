@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 #标题配置
 title:  时间序列的平稳性检验
 #时间配置
