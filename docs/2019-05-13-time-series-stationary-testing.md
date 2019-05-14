@@ -48,3 +48,5 @@ $$ E(y_t) = y_0 + t E(u_i) = y_0 $$
 $$ D(y_t) = $$
 
 [back](../)
+
+{% include header.html %}
